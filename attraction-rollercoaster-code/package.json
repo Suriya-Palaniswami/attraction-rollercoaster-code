@@ -1,0 +1,20 @@
+{
+    "name": "com.dreampark.attractions.rollercoaster",
+    "displayName": "DreamPark – RollerCoaster (Code)",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "description": "Runtime scripts and data types for the RollerCoaster attraction.",
+    "author": { "name": "Dream Park" },
+    "keywords": [ "dreampark", "attraction", "rollercoaster" ],
+    "dependencies": {
+      
+    },
+    "samples": [
+      {
+        "displayName": "RollerCoaster Prefabs",
+        "description": "Basic cart/track setup example.",
+        "path": "Samples~/RollerCoaster"
+      }
+    ]
+  }
+  
